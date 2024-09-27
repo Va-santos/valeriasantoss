@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb  (255, 255, 255);
+    border-bottom: solid 2px rgb (255, 255, 255);
     padding: 20px;
     font-size: 32px;
     color: rgb(rgb(0, 0, 0));
@@ -24,17 +24,18 @@ header {
 .chamada-texto {
     margin-right: 5%;
 }
-h1{
+
+h1 {
     font-size: 40px;
 }
 
-p{
+p {
     font-size: 20px;
 }
 
 
-.categoria-videos{
-    display:flex;
+.categoria-videos {
+    display: flex;
     overflow-x: auto;
     gap: 10px;
 }
@@ -53,7 +54,7 @@ p{
 
 
 .categoria-videos img:hover {
-    opacity: 1.0;  
+    opacity: 1.0;
     border: 1px solid black;
 }
 
